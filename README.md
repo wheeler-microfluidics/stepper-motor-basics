@@ -4,6 +4,9 @@ Stepper motor basics
 Reformatted from content written by [Robin2][1] on the [Arduino forums][2].
 
 
+--------------------------------------------------
+
+
 Introduction
 ============
 
