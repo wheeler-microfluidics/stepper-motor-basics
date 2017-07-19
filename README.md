@@ -1,6 +1,4 @@
 
-![https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/stepper-motor-basics?branch=master&svg=true](https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/stepper-motor-basics?branch=master&svg=true)
-
 
 ![https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/stepper-motor-basics?branch=master&svg=true](https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/stepper-motor-basics?branch=master&svg=true)
 Stepper motor basics
